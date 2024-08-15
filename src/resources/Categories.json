@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Astrologer",
+        "image":"https://miro.medium.com/v2/resize:fit:1200/1*RT64f1KR6T_tuIKfG4wxIw.jpeg"
+    },
+    {
+        "id":2,
+        "name":"assistant",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQMaNdTDiGk1_VvhvpeQALrebX4iMZlGIVQ&s"
+    },
+    {
+        "id":3,
+        "name":"Makeup",
+        "image":"https://cdn.britannica.com/35/222035-131-9FC95B31/makeup-cosmetics.jpg"
+    },
+    {
+        "id":4,
+        "name":"Mehndi",
+        "image":"https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/06/28/1916831-mehandi2.jpg"
+    },
+    {
+        "id":5,
+        "name":"Photographer",
+        "image":"https://images.news18.com/ibnlive/uploads/2021/08/sun-photo-16293134144x3.jpg?impolicy=website&width=640&height=480"
+    }
+]
